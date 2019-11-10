@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Main-Class: TestMain
+Class-Path: D:\IdeaProjects\CounterFilesTask\src\main\java\kokhanevych\m
+ ain
+
